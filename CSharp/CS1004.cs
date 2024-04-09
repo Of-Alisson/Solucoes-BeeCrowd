@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharp
+namespace Csharp
 {
     public class Cs1004
     {
