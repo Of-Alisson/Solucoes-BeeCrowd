@@ -1,0 +1,17 @@
+
+CSharp/CSharp.csproj
+CSharp/CSharp.sln
+CSharp/obj/CSharp.csproj.nuget.dgspec.json
+CSharp/obj/CSharp.csproj.nuget.g.props
+CSharp/obj/CSharp.csproj.nuget.g.targets
+CSharp/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+CSharp/obj/Debug/net6.0/CSharp.AssemblyInfo.cs
+CSharp/obj/Debug/net6.0/CSharp.AssemblyInfoInputs.cache
+CSharp/obj/Debug/net6.0/CSharp.assets.cache
+CSharp/obj/Debug/net6.0/CSharp.csproj.CoreCompileInputs.cache
+CSharp/obj/Debug/net6.0/CSharp.csproj.AssemblyReference.cache
+CSharp/obj/Debug/net6.0/CSharp.csproj.FileListAbsolute.txt
+CSharp/obj/Debug/net6.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+CSharp/obj/Debug/net6.0/CSharp.GlobalUsings.g.cs
+CSharp/obj/project.nuget.cache
+CSharp/obj/project.assets.json
